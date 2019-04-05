@@ -14,3 +14,8 @@
 ### Deep Learning
 
 - Coco Dataset : http://cocodataset.org/#home
+
+### RGB-D Datasets
+
+- List : http://www.michaelfirman.co.uk/RGBDdatasets/
+- The Laval 6 Dof object tracking dataset : http://vision.gel.ulaval.ca/~jflalonde/projects/6dofObjectTracking/index.html
