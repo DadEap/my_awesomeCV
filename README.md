@@ -10,3 +10,7 @@
 #### Face Detection
 
 - libfacedetection : https://github.com/ShiqiYu/libfacedetection
+
+### Deep Learning
+
+- Coco Dataset : http://cocodataset.org/#home
