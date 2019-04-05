@@ -5,6 +5,10 @@
 - PapersWithCode : https://paperswithcode.com/
 - Arxiv Sanity : http://www.arxiv-sanity.com/
 
+### 6D Pose estimation 
+
+- DensFusion : https://github.com/j96w/DenseFusion
+
 ### Detection
 
 #### Face Detection
