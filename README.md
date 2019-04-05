@@ -9,6 +9,12 @@
 
 - DensFusion : https://github.com/j96w/DenseFusion
 
+#### Primitives
+
+### Ellipse Detection : 
+
+- Fast ellipse detector : https://github.com/h3ct0r/fast_ellipse_detector
+
 ### Detection
 
 #### Face Detection
