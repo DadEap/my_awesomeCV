@@ -33,3 +33,7 @@
 ### Reviews
 
 - Tracking list : https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection
+
+### Color spaces
+
+- Fast Definitions : https://docs.opencv.org/3.1.0/de/d25/imgproc_color_conversions.html
