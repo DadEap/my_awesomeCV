@@ -7,7 +7,9 @@
 
 ### 6D Pose estimation 
 
-- DensFusion : https://github.com/j96w/DenseFusion
+- DenseFusion : https://github.com/j96w/DenseFusion
+- SSD-6D : https://github.com/wadimkehl/ssd-6d
+- CoViS : https://gitlab.com/caro-sdu/covis
 
 #### Primitives
 
