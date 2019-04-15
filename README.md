@@ -19,6 +19,17 @@
 
 ### Detection
 
+### RGBD Calibration
+
+- EasyKinCal : http://arthronav.isr.uc.pt/~carolina/kinectcalib/
+- Joint-Calibration-Toolbox-for-Kinect : https://github.com/xw1120/Joint-Calibration-Toolbox-for-Kinect
+- DLR CalDe : https://www.dlr.de/rm/en/desktopdefault.aspx/tabid-3925/6084_read-9201/
+- Basso et al. : http://iaslab-unipd.github.io/rgbd_calibration/
+
+#### Sphere based
+
+- Staranowciz et al. : http://ranger.uta.edu/~gianluca/research/assistiverobotics_rgbdcalibration.html
+
 #### Face Detection
 
 - libfacedetection : https://github.com/ShiqiYu/libfacedetection
